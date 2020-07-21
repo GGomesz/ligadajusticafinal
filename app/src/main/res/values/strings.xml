@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ligadajustica</string>
+    <string name="fundo">fundo</string>
+    <string name="titulo">titulo</string>
+    <string name="flash">Flash</string>
+    <string name="ciborgue">Ciborgue</string>
+    <string name="batman">Batman</string>
+    <string name="aquaman">Aquaman</string>
+    <string name="mulher">Mulher-maravilha</string>
+    <string name="bgflash">bgflash</string>
+    <string name="descflash">Também chamado de velocista escarlate, o Flash possui "super-velocidade",
+        consegue mover-se a uma velocidade sobre-humana, usar reflexos sobre-humanos e violar certas Leis da
+        física, podendo até mesmo ultrapassar a velocidade da luz.</string>
+    <string name="espflash">meta-humano</string>
+    <string name="todo">TODO</string>
+</resources>
